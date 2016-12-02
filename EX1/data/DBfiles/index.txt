@@ -1,0 +1,53 @@
+*word	P.S. I love you , love me do
+again 001 , 000
+all 010 , 000
+always 100 , 110
+and 001 , 000
+as 110 , 000
+be 101 , 110
+coming 001 , 000
+day 001 , 000
+do 001 , 110
+few 010 , 000
+forever 010 , 000
+home 001 , 000
+i 111 , 110
+i'll 101 , 110
+in 100 , 000
+keep 010 , 000
+know 000 , 110
+letter 100 , 000
+like 000 , 001
+love 111 , 111
+me 000 , 110
+my 110 , 000
+new 000 , 001
+p 011 , 000
+please 000 , 110
+remember 100 , 000
+s 011 , 000
+send 100 , 000
+so 000 , 111
+somebody 000 , 001
+someone 000 , 001
+that 100 , 000
+the 011 , 000
+these 010 , 000
+this 100 , 000
+till 011 , 000
+to 101 , 001
+together 010 , 000
+treasure 010 , 000
+true 000 , 110
+we're 010 , 000
+whoa 000 , 110
+with 100 , 000
+words 010 , 000
+write 100 , 000
+you 111 , 111
+
+*Explanation: 
+*the ‘1’ means that the word found in one of the 3 sections- either sec. 1 or 2 or 3 or all .
+*Example: 
+*‘010’ > word found in section number 2 
+*‘100’ > word found in section number 1  
